@@ -1,0 +1,22 @@
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\bin\Debug\Calculator.exe.config
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\bin\Debug\Calculator.exe
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\bin\Debug\Calculator.pdb
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.exe
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.pdb
+D:\Muhammed\Desktop\C#\MyProject\Pojects\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\bin\Debug\Calculator.exe.config
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\bin\Debug\Calculator.exe
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\bin\Debug\Calculator.pdb
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.exe
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Calculator\obj\Debug\Calculator.pdb
